@@ -1,0 +1,2 @@
+# wildvpn
+Privacy Policy
